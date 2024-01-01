@@ -1,0 +1,534 @@
+{
+   "id": "https://medium.com/p/960297742e59",
+   "title": "Clarity in collaboration: Describe a bicycle exercise",
+   "link": "https://bootcamp.uxdesign.cc/clarity-in-collaboration-describe-a-bicycle-exercise-960297742e59?source=rss-aa8c53c0114d------2",
+   "author": "Benjamiz",
+   "published": 1702155087000,
+   "created": 1702155087000,
+   "category": [
+      "team-building",
+      "product-design",
+      "teamwork",
+      "product-management",
+      "product-development"
+   ],
+   "content": {
+      "type": "div",
+      "content": [
+         {
+            "type": "h4",
+            "content": [
+               "The power of detailed communication and shared vision in team dynamics"
+            ]
+         },
+         {
+            "type": "figure",
+            "content": [
+               {
+                  "type": "img",
+                  "attributes": {
+                     "alt": "A group of five professionals in a meeting, with a thought bubble collectively imagined above them, containing geometric shapes: a tetrahedron, an octahedron, a dodecahedron, and a cube. One of them is pointing to a whiteboard that reads “I need a shape.”",
+                     "src": "https://cdn-images-1.medium.com/max/1024/1*A77fKwsjzwNV-M6yVOaChA.jpeg"
+                  }
+               }
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "When people create something, like software or a product, what they make is not the perfect version of what they want. Instead, they are making something close to, but not exactly, the ideal version in their mind. This ideal version is based on what experts think, what customers want, and what is needed for the business."
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "The problem is that everyone involved might have a slightly different idea of what this perfect version should be. Also, there are limits like time, money, and the tools they use, which affect how close the final product can be to this ideal version."
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "As the project goes on, the team learns more and adjusts their work and gets closer to this ideal version. They constantly (consciously or unconsciously) refine their understanding and the product, based on new information and feedback."
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "This journey towards a vision is littered with challenges one of which is ensuring that everyone on the team shares a similar understanding of the goal. However, do we truly appreciate how different our individual interpretations of a common concept can be?"
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "While thinking about how to combat this issue of individual interpretations, I realised that the first thing that needs to be tackled is awareness of the issue. So, I came up with the ‘Describe a Bicycle’ exercise. It’s an exploration into how each member interprets a simple concept like a ‘bicycle’ in varied and unique ways."
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "The essence of this activity lies in its ability to showcase the importance of clear, detailed communication. It demonstrates that even when we agree on a general concept, the specifics can vary greatly from person to person. But it’s this understanding which is crucial in project development, where details matter and the alignment of these details among team members can significantly impact the outcome."
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "This exercise reveals the difference between a basic theoretical grasp of a concept and the ability to turn that concept into a detailed, tangible description ready for creation. It highlights how each individual’s interpretation of a simple idea can evolve into unique, detailed descriptions. If these interpretations are misaligned, it can lead to inconsistencies in the final creation, underscoring the need for continuous alignment and communication within the team."
+            ]
+         },
+         {
+            "type": "blockquote",
+            "content": [
+               "“Ideas scatter when details don’t matter”"
+            ]
+         },
+         {
+            "type": "h3",
+            "content": [
+               {
+                  "type": "strong",
+                  "content": [
+                     "Describe a bicycle exercise"
+                  ]
+               }
+            ]
+         },
+         {
+            "type": "figure",
+            "content": [
+               {
+                  "type": "img",
+                  "attributes": {
+                     "alt": "A creative team in a brainstorming session around a table covered with papers, sticky notes, and design materials. A man stands presenting a bicycle image on a whiteboard to his attentive colleagues.",
+                     "src": "https://cdn-images-1.medium.com/max/1024/1*y7RLAQlEKOBO9Q5MeEd-kA.jpeg"
+                  }
+               }
+            ]
+         },
+         {
+            "type": "h4",
+            "content": [
+               "Purpose of the Exercise:"
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "This activity is designed to highlight the importance of alignment and detailed understanding within a team working on a product. It emphasises the need for clear, specific communication and understanding of a common goal by showing that while everyone may agree on a broad concept, their interpretations of the details can vary significantly."
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               {
+                  "type": "strong",
+                  "content": [
+                     "Materials Needed:"
+                  ]
+               }
+            ]
+         },
+         {
+            "type": "ul",
+            "content": [
+               {
+                  "type": "li",
+                  "content": [
+                     "Pen and paper for each team member."
+                  ]
+               },
+               {
+                  "type": "li",
+                  "content": [
+                     "Timer."
+                  ]
+               }
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               {
+                  "type": "strong",
+                  "content": [
+                     "Duration:"
+                  ]
+               }
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "Approximately 15–20 minutes."
+            ]
+         },
+         {
+            "type": "h4",
+            "content": [
+               "Activity Brief:"
+            ]
+         },
+         {
+            "type": "ul",
+            "content": [
+               {
+                  "type": "li",
+                  "content": [
+                     "Ask the team to imagine a bicycle."
+                  ]
+               },
+               {
+                  "type": "li",
+                  "content": [
+                     "Explain that each member will need to describe their imagined bicycle in detail as if it were physically present."
+                  ]
+               },
+               {
+                  "type": "li",
+                  "content": [
+                     "Emphasise the need for specifics — the description should be unique enough to distinguish their bicycle from others."
+                  ]
+               }
+            ]
+         },
+         {
+            "type": "h4",
+            "content": [
+               "Individual Description (5 min):"
+            ]
+         },
+         {
+            "type": "ul",
+            "content": [
+               {
+                  "type": "li",
+                  "content": [
+                     "Set a timer for 5 minutes."
+                  ]
+               },
+               {
+                  "type": "li",
+                  "content": [
+                     "Each team member writes indivually a detailed description of their imagined bicycle."
+                  ]
+               }
+            ]
+         },
+         {
+            "type": "h4",
+            "content": [
+               "Sharing Descriptions:"
+            ]
+         },
+         {
+            "type": "ul",
+            "content": [
+               {
+                  "type": "li",
+                  "content": [
+                     "Go around the room, allowing each member to share their description."
+                  ]
+               },
+               {
+                  "type": "li",
+                  "content": [
+                     "Listen to each description attentively."
+                  ]
+               }
+            ]
+         },
+         {
+            "type": "h4",
+            "content": [
+               "Debrief and Discussion:"
+            ]
+         },
+         {
+            "type": "ul",
+            "content": [
+               {
+                  "type": "li",
+                  "content": [
+                     "Explain that the exercise was more than just describing bicycles; it was about understanding how different perceptions can affect a team project."
+                  ]
+               },
+               {
+                  "type": "li",
+                  "content": [
+                     "Highlight that each person’s unique description reflects how varied interpretations of a simple concept like a bicycle can be."
+                  ]
+               },
+               {
+                  "type": "li",
+                  "content": [
+                     "Invite the team to imagine what the bicycle would look like if it were created using elements from everyone’s descriptions."
+                  ]
+               },
+               {
+                  "type": "li",
+                  "content": [
+                     "Reflect on how this ‘composite bicycle’ might be impractical or illogical, illustrating the challenges of unclear or misaligned visions."
+                  ]
+               },
+               {
+                  "type": "li",
+                  "content": [
+                     "Discuss the importance of clear and detailed communication in product development."
+                  ]
+               },
+               {
+                  "type": "li",
+                  "content": [
+                     "Emphasise how different perceptions, if not aligned, could lead to a final product that doesn’t meet the intended purpose or user needs."
+                  ]
+               },
+               {
+                  "type": "li",
+                  "content": [
+                     "Conclude by stressing the need for regular check-ins and clarifications among team members to ensure everyone is aligned with the project’s goals and requirements."
+                  ]
+               }
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               {
+                  "type": "em",
+                  "content": [
+                     "Note: Ensure that the team does not become aware of the real purpose of the exercise until the debrief, to maintain the authenticity of their responses."
+                  ]
+               }
+            ]
+         },
+         {
+            "type": "h4",
+            "content": [
+               "Example Script:"
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "“",
+               {
+                  "type": "em",
+                  "content": [
+                     "Hello everyone, let’s gather for a quick team exercise. Today, we’re going to do a simple but revealing activity. I want each of you to imagine a Bicycle. Think about its appearance, its function, how and when it’s used, its user, and any distinctive features. Now, write a description of this bike. Be as detailed as possible — imagine you’re describing it so someone could pick it out from a large bike rack. You have 5 minutes for this."
+                  ]
+               }
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "[After 5 minutes]"
+            ]
+         },
+         {
+            "type": "figure",
+            "content": [
+               {
+                  "type": "img",
+                  "attributes": {
+                     "alt": "A focused design team engrossed in sketching, with thought bubbles above them containing various bicycle designs. The group is intently working on tablets and papers, collaborating on a project.",
+                     "src": "https://cdn-images-1.medium.com/max/1024/1*-Qqd2xUoiNALViWZsvxzHQ.jpeg"
+                  }
+               }
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               {
+                  "type": "em",
+                  "content": [
+                     "Let’s hear your descriptions. "
+                  ]
+               },
+               "[Proceed with sharing]"
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               {
+                  "type": "em",
+                  "content": [
+                     "Thank you for your participation. The aim of this exercise was to demonstrate that even with a common understanding of a concept — like a bicycle — each of us has a unique interpretation. In our work, when we talk about our product or project goals, it’s crucial to be as specific as possible to ensure we are all aligned and working towards the same detailed vision. This is why constant checking for understanding and alignment is essential in our team."
+                  ]
+               },
+               "”"
+            ]
+         },
+         {
+            "type": "h3",
+            "content": [
+               "Further Activity: Identifying and Combating Vagueness in Team Communication"
+            ]
+         },
+         {
+            "type": "h4",
+            "content": [
+               "Extend the exercise:"
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "After completing the ‘Describe a bicycle’ exercise, the team can extend the activity to address common issues of vagueness and lack of detail in team communication. This part of the exercise focuses on identifying and overcoming ‘dark patterns’ of communication, where important details are often overlooked or not clearly expressed."
+            ]
+         },
+         {
+            "type": "figure",
+            "content": [
+               {
+                  "type": "img",
+                  "attributes": {
+                     "alt": "A team of professionals is gathered around a whiteboard filled with words and sketches relating to ‘Communication’ strategies. They are actively engaged in a discussion, with one person pointing at the board while others look on thoughtfully. The setting is an office with a large window in the background.",
+                     "src": "https://cdn-images-1.medium.com/max/1024/1*jLsximk-kPceVGbV__lDdg.jpeg"
+                  }
+               }
+            ]
+         },
+         {
+            "type": "h4",
+            "content": [
+               "Discussion on Vagueness:"
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "The team discusses examples of vague communication they have encountered and its impact on project work."
+            ]
+         },
+         {
+            "type": "h4",
+            "content": [
+               "Identifying Indicators:"
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "Develop a list of ‘red flags’ that indicate when communication is becoming too vague or details are being skipped."
+            ]
+         },
+         {
+            "type": "h4",
+            "content": [
+               "Strategy Development:"
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "Collaboratively come up with methods and practices to improve focus and clarity. This could include setting standards for communication, using specific project management tools, or regular check-ins to ensure clarity."
+            ]
+         },
+         {
+            "type": "h4",
+            "content": [
+               "Implementation Plan:"
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "Decide how these strategies will be implemented in day-to-day work."
+            ]
+         },
+         {
+            "type": "figure",
+            "content": [
+               {
+                  "type": "img",
+                  "attributes": {
+                     "alt": "A collaborative team is centred around a table, focusing on a sheet of paper with various diagrams, symbolising a planning or brainstorming session. Above them, a series of lightbulbs hang at different heights, with one illuminated, representing an idea or solution being realised.",
+                     "src": "https://cdn-images-1.medium.com/max/1024/1*w96bUH5kCg8o_PCI4Mnxeg.jpeg"
+                  }
+               }
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               "The ‘Describe a bicycle’ exercise, aims to give a team a deeper appreciation for the necessity of concise communication and the vital role of collective understanding in collaborative projects. This activity serves as a metaphor for the challenges we face in product development, where each team member’s unique perspective and expertise contribute to shaping the outcome. It reinforces the idea that while we may share a common goal, the path to achieving it is paved with diverse interpretations and ideas. By ensuring detailed, clear communication and continually testing and refining our visions, we can work more effectively towards creating products that not only meet but exceed our collective expectations. Remember, the strength of our team lies in our ability to understand, respect, and integrate our varied perspectives into a cohesive and successful product."
+            ]
+         },
+         {
+            "type": "h3",
+            "content": [
+               "Further resources:"
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               {
+                  "type": "a",
+                  "content": [
+                     "Best practice: An introduction to domain driven design"
+                  ],
+                  "attributes": {
+                     "href": "https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design"
+                  }
+               }
+            ]
+         },
+         {
+            "type": "p",
+            "content": [
+               {
+                  "type": "a",
+                  "content": [
+                     "User story mapping with Jeff Patton"
+                  ],
+                  "attributes": {
+                     "href": "https://youtu.be/AorAgSrHjKM?si=cUX5cr_IJVi1jeJl"
+                  }
+               }
+            ]
+         },
+         {
+            "type": "img",
+            "attributes": {
+               "src": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=960297742e59",
+               "width": "1",
+               "height": "1"
+            }
+         },
+         {
+            "type": "hr"
+         },
+         {
+            "type": "p",
+            "content": [
+               {
+                  "type": "a",
+                  "content": [
+                     "Clarity in collaboration: Describe a bicycle exercise"
+                  ],
+                  "attributes": {
+                     "href": "https://bootcamp.uxdesign.cc/clarity-in-collaboration-describe-a-bicycle-exercise-960297742e59"
+                  }
+               },
+               " was originally published in ",
+               {
+                  "type": "a",
+                  "content": [
+                     "Bootcamp"
+                  ],
+                  "attributes": {
+                     "href": "https://bootcamp.uxdesign.cc"
+                  }
+               },
+               " on Medium, where people are continuing the conversation by highlighting and responding to this story."
+            ]
+         }
+      ]
+   },
+   "enclosures": [],
+   "content_encoded": "<h4>The power of detailed communication and shared vision in team dynamics</h4><figure><img alt=\"A group of five professionals in a meeting, with a thought bubble collectively imagined above them, containing geometric shapes: a tetrahedron, an octahedron, a dodecahedron, and a cube. One of them is pointing to a whiteboard that reads “I need a shape.”\" src=\"https://cdn-images-1.medium.com/max/1024/1*A77fKwsjzwNV-M6yVOaChA.jpeg\" /></figure><p>When people create something, like software or a product, what they make is not the perfect version of what they want. Instead, they are making something close to, but not exactly, the ideal version in their mind. This ideal version is based on what experts think, what customers want, and what is needed for the business.</p><p>The problem is that everyone involved might have a slightly different idea of what this perfect version should be. Also, there are limits like time, money, and the tools they use, which affect how close the final product can be to this ideal version.</p><p>As the project goes on, the team learns more and adjusts their work and gets closer to this ideal version. They constantly (consciously or unconsciously) refine their understanding and the product, based on new information and feedback.</p><p>This journey towards a vision is littered with challenges one of which is ensuring that everyone on the team shares a similar understanding of the goal. However, do we truly appreciate how different our individual interpretations of a common concept can be?</p><p>While thinking about how to combat this issue of individual interpretations, I realised that the first thing that needs to be tackled is awareness of the issue. So, I came up with the ‘Describe a Bicycle’ exercise. It’s an exploration into how each member interprets a simple concept like a ‘bicycle’ in varied and unique ways.</p><p>The essence of this activity lies in its ability to showcase the importance of clear, detailed communication. It demonstrates that even when we agree on a general concept, the specifics can vary greatly from person to person. But it’s this understanding which is crucial in project development, where details matter and the alignment of these details among team members can significantly impact the outcome.</p><p>This exercise reveals the difference between a basic theoretical grasp of a concept and the ability to turn that concept into a detailed, tangible description ready for creation. It highlights how each individual’s interpretation of a simple idea can evolve into unique, detailed descriptions. If these interpretations are misaligned, it can lead to inconsistencies in the final creation, underscoring the need for continuous alignment and communication within the team.</p><blockquote>“Ideas scatter when details don’t matter”</blockquote><h3><strong>Describe a bicycle exercise</strong></h3><figure><img alt=\"A creative team in a brainstorming session around a table covered with papers, sticky notes, and design materials. A man stands presenting a bicycle image on a whiteboard to his attentive colleagues.\" src=\"https://cdn-images-1.medium.com/max/1024/1*y7RLAQlEKOBO9Q5MeEd-kA.jpeg\" /></figure><h4>Purpose of the Exercise:</h4><p>This activity is designed to highlight the importance of alignment and detailed understanding within a team working on a product. It emphasises the need for clear, specific communication and understanding of a common goal by showing that while everyone may agree on a broad concept, their interpretations of the details can vary significantly.</p><p><strong>Materials Needed:</strong></p><ul><li>Pen and paper for each team member.</li><li>Timer.</li></ul><p><strong>Duration:</strong></p><p>Approximately 15–20 minutes.</p><h4>Activity Brief:</h4><ul><li>Ask the team to imagine a bicycle.</li><li>Explain that each member will need to describe their imagined bicycle in detail as if it were physically present.</li><li>Emphasise the need for specifics — the description should be unique enough to distinguish their bicycle from others.</li></ul><h4>Individual Description (5 min):</h4><ul><li>Set a timer for 5 minutes.</li><li>Each team member writes indivually a detailed description of their imagined bicycle.</li></ul><h4>Sharing Descriptions:</h4><ul><li>Go around the room, allowing each member to share their description.</li><li>Listen to each description attentively.</li></ul><h4>Debrief and Discussion:</h4><ul><li>Explain that the exercise was more than just describing bicycles; it was about understanding how different perceptions can affect a team project.</li><li>Highlight that each person’s unique description reflects how varied interpretations of a simple concept like a bicycle can be.</li><li>Invite the team to imagine what the bicycle would look like if it were created using elements from everyone’s descriptions.</li><li>Reflect on how this ‘composite bicycle’ might be impractical or illogical, illustrating the challenges of unclear or misaligned visions.</li><li>Discuss the importance of clear and detailed communication in product development.</li><li>Emphasise how different perceptions, if not aligned, could lead to a final product that doesn’t meet the intended purpose or user needs.</li><li>Conclude by stressing the need for regular check-ins and clarifications among team members to ensure everyone is aligned with the project’s goals and requirements.</li></ul><p><em>Note: Ensure that the team does not become aware of the real purpose of the exercise until the debrief, to maintain the authenticity of their responses.</em></p><h4>Example Script:</h4><p>“<em>Hello everyone, let’s gather for a quick team exercise. Today, we’re going to do a simple but revealing activity. I want each of you to imagine a Bicycle. Think about its appearance, its function, how and when it’s used, its user, and any distinctive features. Now, write a description of this bike. Be as detailed as possible — imagine you’re describing it so someone could pick it out from a large bike rack. You have 5 minutes for this.</em></p><p>[After 5 minutes]</p><figure><img alt=\"A focused design team engrossed in sketching, with thought bubbles above them containing various bicycle designs. The group is intently working on tablets and papers, collaborating on a project.\" src=\"https://cdn-images-1.medium.com/max/1024/1*-Qqd2xUoiNALViWZsvxzHQ.jpeg\" /></figure><p><em>Let’s hear your descriptions. </em>[Proceed with sharing]</p><p><em>Thank you for your participation. The aim of this exercise was to demonstrate that even with a common understanding of a concept — like a bicycle — each of us has a unique interpretation. In our work, when we talk about our product or project goals, it’s crucial to be as specific as possible to ensure we are all aligned and working towards the same detailed vision. This is why constant checking for understanding and alignment is essential in our team.</em>”</p><h3>Further Activity: Identifying and Combating Vagueness in Team Communication</h3><h4>Extend the exercise:</h4><p>After completing the ‘Describe a bicycle’ exercise, the team can extend the activity to address common issues of vagueness and lack of detail in team communication. This part of the exercise focuses on identifying and overcoming ‘dark patterns’ of communication, where important details are often overlooked or not clearly expressed.</p><figure><img alt=\"A team of professionals is gathered around a whiteboard filled with words and sketches relating to ‘Communication’ strategies. They are actively engaged in a discussion, with one person pointing at the board while others look on thoughtfully. The setting is an office with a large window in the background.\" src=\"https://cdn-images-1.medium.com/max/1024/1*jLsximk-kPceVGbV__lDdg.jpeg\" /></figure><h4>Discussion on Vagueness:</h4><p>The team discusses examples of vague communication they have encountered and its impact on project work.</p><h4>Identifying Indicators:</h4><p>Develop a list of ‘red flags’ that indicate when communication is becoming too vague or details are being skipped.</p><h4>Strategy Development:</h4><p>Collaboratively come up with methods and practices to improve focus and clarity. This could include setting standards for communication, using specific project management tools, or regular check-ins to ensure clarity.</p><h4>Implementation Plan:</h4><p>Decide how these strategies will be implemented in day-to-day work.</p><figure><img alt=\"A collaborative team is centred around a table, focusing on a sheet of paper with various diagrams, symbolising a planning or brainstorming session. Above them, a series of lightbulbs hang at different heights, with one illuminated, representing an idea or solution being realised.\" src=\"https://cdn-images-1.medium.com/max/1024/1*w96bUH5kCg8o_PCI4Mnxeg.jpeg\" /></figure><p>The ‘Describe a bicycle’ exercise, aims to give a team a deeper appreciation for the necessity of concise communication and the vital role of collective understanding in collaborative projects. This activity serves as a metaphor for the challenges we face in product development, where each team member’s unique perspective and expertise contribute to shaping the outcome. It reinforces the idea that while we may share a common goal, the path to achieving it is paved with diverse interpretations and ideas. By ensuring detailed, clear communication and continually testing and refining our visions, we can work more effectively towards creating products that not only meet but exceed our collective expectations. Remember, the strength of our team lies in our ability to understand, respect, and integrate our varied perspectives into a cohesive and successful product.</p><h3>Further resources:</h3><p><a href=\"https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design\">Best practice: An introduction to domain driven design</a></p><p><a href=\"https://youtu.be/AorAgSrHjKM?si=cUX5cr_IJVi1jeJl\">User story mapping with Jeff Patton</a></p><img src=\"https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=960297742e59\" width=\"1\" height=\"1\" alt=\"\"><hr><p><a href=\"https://bootcamp.uxdesign.cc/clarity-in-collaboration-describe-a-bicycle-exercise-960297742e59\">Clarity in collaboration: Describe a bicycle exercise</a> was originally published in <a href=\"https://bootcamp.uxdesign.cc\">Bootcamp</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>",
+   "media": {}
+}

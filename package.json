@@ -1,0 +1,22 @@
+{
+  "name": "mediumfeedtojson",
+  "version": "1.0.0",
+  "description": "a little program to turn medium content from the xml feed to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-to-json-parser": "^2.0.0",
+    "rss-to-json": "^2.1.1",
+    "sanitize-html": "^2.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "@types/sanitize-html": "^2.9.5",
+    "typescript": "^5.3.3"
+  }
+}
