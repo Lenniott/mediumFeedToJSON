@@ -5,13 +5,14 @@ import { HTMLToJSON } from 'html-to-json-parser';
 import sanitizeHtml from 'sanitize-html';
 import { writeFileSync } from 'fs';
 
-const userName = "oliver.n.winfield";
+const userName = "oliver.n.winfield"//"benjamin.Mizrany";
 const rssUrl = `https://medium.com/@${userName}/feed`;
 const article = 0;
 
 (async () => {
     try {
         const rss = await parse(rssUrl);
+        console.log(`${rss.items[article].title}`);
         let htmlContent = `<div>${rss.items[article].content}</div>`;
 
         // Sanitize HTML content

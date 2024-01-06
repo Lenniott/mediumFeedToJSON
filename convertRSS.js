@@ -16,12 +16,13 @@ const rss_to_json_1 = require("rss-to-json");
 const html_to_json_parser_1 = require("html-to-json-parser");
 const sanitize_html_1 = __importDefault(require("sanitize-html"));
 const fs_1 = require("fs");
-const userName = "oliver.n.winfield";
+const userName = "oliver.n.winfield"; //"benjamin.Mizrany";
 const rssUrl = `https://medium.com/@${userName}/feed`;
 const article = 0;
 (() => __awaiter(void 0, void 0, void 0, function* () {
     try {
         const rss = yield (0, rss_to_json_1.parse)(rssUrl);
+        console.log(`${rss.items[article].title}`);
         let htmlContent = `<div>${rss.items[article].content}</div>`;
         // Sanitize HTML content
         htmlContent = (0, sanitize_html_1.default)(htmlContent, {

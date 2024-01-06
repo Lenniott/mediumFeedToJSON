@@ -186,6 +186,17 @@
                {
                   "type": "img",
                   "attributes": {
+                     "src": "https://cdn-images-1.medium.com/max/278/1*WYeK90c70Ll72xhUSCqhrA.jpeg"
+                  }
+               }
+            ]
+         },
+         {
+            "type": "figure",
+            "content": [
+               {
+                  "type": "img",
+                  "attributes": {
                      "src": "https://cdn-images-1.medium.com/max/500/1*N2na2GUcAK7DPuKIXBDVdg.jpeg"
                   }
                }
@@ -199,23 +210,6 @@
                   "attributes": {
                      "src": "https://cdn-images-1.medium.com/max/500/1*YJ9saeACotG7yqXcITOB2w.jpeg"
                   }
-               }
-            ]
-         },
-         {
-            "type": "figure",
-            "content": [
-               {
-                  "type": "img",
-                  "attributes": {
-                     "src": "https://cdn-images-1.medium.com/max/278/1*WYeK90c70Ll72xhUSCqhrA.jpeg"
-                  }
-               },
-               {
-                  "type": "figcaption",
-                  "content": [
-                     "cats"
-                  ]
                }
             ]
          },
@@ -314,6 +308,6 @@
       ]
    },
    "enclosures": [],
-   "content_encoded": "<h3>Heading1</h3><h3>Heading2</h3><h4>Heading3</h4><p>basetext</p><p><strong>boldtext</strong></p><p><em>Italics</em></p><blockquote>my quote1</blockquote><blockquote>myquote 2</blockquote><ul><li>item 1</li><li>item 2</li><li>item 3</li></ul><p>base</p><ol><li>number item 1</li><li>number item 2</li><li>number item 3</li></ol><p>base</p><iframe src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-yIsQPp31L0%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-yIsQPp31L0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-yIsQPp31L0%2Fhqdefault.jpg&key=a19fcc184b9711e1b4764040d3dc5c07&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" frameborder=\"0\" scrolling=\"no\"><a href=\"https://medium.com/media/deb75f665bc482df87eb630d38b86c32/href\">https://medium.com/media/deb75f665bc482df87eb630d38b86c32/href</a></iframe><figure><img alt=\"brown cats hug in bed\" src=\"https://cdn-images-1.medium.com/max/500/1*N2na2GUcAK7DPuKIXBDVdg.jpeg\" /><figcaption>two cats hug</figcaption></figure><p>base</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/500/1*-77xrhgFzP8dOvFl3hmCNg.jpeg\" /></figure><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/500/1*0CYCnME9B90xMhZymDMf_Q.jpeg\" /></figure><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/500/1*N2na2GUcAK7DPuKIXBDVdg.jpeg\" /></figure><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/500/1*YJ9saeACotG7yqXcITOB2w.jpeg\" /></figure><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/278/1*WYeK90c70Ll72xhUSCqhrA.jpeg\" /><figcaption>cats</figcaption></figure><p><a href=\"https://flowbite.com/docs/components/avatar/\">this is a link</a></p><p><blockquote class=”twitter-tweet” data-media-max-width=”560\"><p lang=”en” dir=”ltr”>listen to this song&#39;s lyrics from the perspective of a product team member, familiar with Marty Cagan, Jeff Patton, Uncle Bob, and James Coplien, but in a less mature product environment. 🚀🤔 😂<a href=”https://twitter.com/hashtag/ProductDevelopment?src=hash&amp;ref_src=twsrc%5Etfw\">#ProductDevelopment</a> <a href=”https://twitter.com/hashtag/ProductDesign?src=hash&amp;ref_src=twsrc%5Etfw\">#ProductDesign</a><a href=”https://t.co/OwzUp7XybP\">https://t.co/OwzUp7XybP</a></p>&mdash; Benjamiz (@benja_miz) <a href=”https://twitter.com/benja_miz/status/1726515584949797133?ref_src=twsrc%5Etfw\">November 20, 2023</a></blockquote> <script async src=”https://platform.twitter.com/widgets.js\" charset=”utf-8\"></script></p><pre>my code goes here</pre><img src=\"https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=763a8e1dceab\" width=\"1\" height=\"1\" alt=\"\">",
+   "content_encoded": "<h3>Heading1</h3><h3>Heading2</h3><h4>Heading3</h4><p>basetext</p><p><strong>boldtext</strong></p><p><em>Italics</em></p><blockquote>my quote1</blockquote><blockquote>myquote 2</blockquote><ul><li>item 1</li><li>item 2</li><li>item 3</li></ul><p>base</p><ol><li>number item 1</li><li>number item 2</li><li>number item 3</li></ol><p>base</p><iframe src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-yIsQPp31L0%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-yIsQPp31L0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-yIsQPp31L0%2Fhqdefault.jpg&key=a19fcc184b9711e1b4764040d3dc5c07&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" frameborder=\"0\" scrolling=\"no\"><a href=\"https://medium.com/media/deb75f665bc482df87eb630d38b86c32/href\">https://medium.com/media/deb75f665bc482df87eb630d38b86c32/href</a></iframe><figure><img alt=\"brown cats hug in bed\" src=\"https://cdn-images-1.medium.com/max/500/1*N2na2GUcAK7DPuKIXBDVdg.jpeg\" /><figcaption>two cats hug</figcaption></figure><p>base</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/500/1*-77xrhgFzP8dOvFl3hmCNg.jpeg\" /></figure><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/500/1*0CYCnME9B90xMhZymDMf_Q.jpeg\" /></figure><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/278/1*WYeK90c70Ll72xhUSCqhrA.jpeg\" /></figure><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/500/1*N2na2GUcAK7DPuKIXBDVdg.jpeg\" /></figure><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/500/1*YJ9saeACotG7yqXcITOB2w.jpeg\" /></figure><p><a href=\"https://flowbite.com/docs/components/avatar/\">this is a link</a></p><p><blockquote class=”twitter-tweet” data-media-max-width=”560\"><p lang=”en” dir=”ltr”>listen to this song&#39;s lyrics from the perspective of a product team member, familiar with Marty Cagan, Jeff Patton, Uncle Bob, and James Coplien, but in a less mature product environment. 🚀🤔 😂<a href=”https://twitter.com/hashtag/ProductDevelopment?src=hash&amp;ref_src=twsrc%5Etfw\">#ProductDevelopment</a> <a href=”https://twitter.com/hashtag/ProductDesign?src=hash&amp;ref_src=twsrc%5Etfw\">#ProductDesign</a><a href=”https://t.co/OwzUp7XybP\">https://t.co/OwzUp7XybP</a></p>&mdash; Benjamiz (@benja_miz) <a href=”https://twitter.com/benja_miz/status/1726515584949797133?ref_src=twsrc%5Etfw\">November 20, 2023</a></blockquote> <script async src=”https://platform.twitter.com/widgets.js\" charset=”utf-8\"></script></p><pre>my code goes here</pre><img src=\"https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=763a8e1dceab\" width=\"1\" height=\"1\" alt=\"\">",
    "media": {}
 }
